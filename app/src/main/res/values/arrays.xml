@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+    </string-array>
+
+    <string-array name="settings_section_type_labels">
+        <item>@string/settings_section_type_no_item_label</item>
+        <item>@string/settings_section_type_sport_label</item>
+        <item>@string/settings_section_type_business_label</item>
+        <item>@string/settings_section_type_politics_label</item>
+        <item>@string/settings_section_type_football_label</item>
+        <item>@string/settings_section_type_world_label</item>
+    </string-array>
+
+    <string-array name="settings_section_type_values">
+        <item>@string/settings_section_type_no_item_value</item>
+        <item>@string/settings_section_type_sport_value</item>
+        <item>@string/settings_section_type_business_value</item>
+        <item>@string/settings_section_type_politics_value</item>
+        <item>@string/settings_section_type_football_value</item>
+        <item>@string/settings_section_type_world_value</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name"> Hot News </string>
+
+    <!-- Text If there is no News  -->
+    <string name="no_news">No News found.</string>
+
+    <!-- Text If there is no Internet connection  -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- List Preference 1 -->
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="order_by">Order By</string>
+
+    <!-- Array Items 1 -->
+    <string name="settings_order_by_newest_label">Newest News</string>
+    <string name="settings_order_by_oldest_label">Oldest News</string>
+
+    <!-- Array Value 1 -->
+    <string name="settings_order_by_newest_value">newest</string>
+    <string name="settings_order_by_oldest_value">oldest</string>
+
+    <!-- List Preference 2 -->
+    <string name="section_type">Setion Type</string>
+    <string name="settings_section_type_key">section_type</string>
+
+    <!-- Array Items 2 -->
+    <string name="settings_section_type_no_item_label">No Items</string>
+    <string name="settings_section_type_sport_label">Sport</string>
+    <string name="settings_section_type_business_label">Business</string>
+    <string name="settings_section_type_politics_label">Politics</string>
+    <string name="settings_section_type_football_label">Football</string>
+    <string name="settings_section_type_world_label">World</string>
+
+    <!-- Array Value 2 -->
+    <string name="settings_section_type_no_item_value" />
+    <string name="settings_section_type_sport_value">sport</string>
+    <string name="settings_section_type_business_value">business</string>
+    <string name="settings_section_type_politics_value">politics</string>
+    <string name="settings_section_type_football_value">football</string>
+    <string name="settings_section_type_world_value">world</string>
+</resources>

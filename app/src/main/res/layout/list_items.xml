@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/tvTitle"
+        android:fontFamily="sans-serif-small"
+        android:textColor="@color/title_text_view"
+        tools:text="Title" />
+
+    <TextView
+        android:id="@+id/tvInformations"
+        style="@style/tvInformation"
+        android:fontFamily="sans-serif-small"
+        android:textColor="@color/information_text_view"
+        tools:text="Information" />
+
+    <TextView
+        android:id="@+id/tvAuthorName"
+        style="@style/tvAuthor"
+        android:fontFamily="sans-serif-small"
+        android:textColor="@color/other_text_view"
+        tools:text="Author" />
+
+    <TextView
+        android:id="@+id/tvDate"
+        style="@style/tvDate"
+        android:fontFamily="sans-serif-small"
+        android:textColor="@color/other_text_view"
+        tools:text="time" />
+</LinearLayout>
